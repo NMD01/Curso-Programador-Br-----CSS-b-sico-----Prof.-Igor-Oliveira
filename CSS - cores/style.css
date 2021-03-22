@@ -1,0 +1,10 @@
+p{
+    color: blue;
+}
+#começo{
+    color: rgba(63, 241, 77, 0.808);
+}
+.segundo{
+    color: #127012;
+}
+/* exite 3 maneiras de selecionar uma cor em CSS, A 1° digitando o nome da cor, a 2° RGBA(red,green,blue,transparente), e a 3° é numero hexadecimal  */
