@@ -1,0 +1,17 @@
+body{
+    background-image: url(pc.png);
+    background-repeat: no-repeat; 
+    /* background-size: cover; */
+    background-position: center;
+}
+
+
+#começo{
+    background-color: blue; /* Já conhecia */
+}
+
+
+.terceiro{
+    background-image: url(pc.png); /* usando a mesma imagem só para teste */
+    background-attachment: fixed;
+}
