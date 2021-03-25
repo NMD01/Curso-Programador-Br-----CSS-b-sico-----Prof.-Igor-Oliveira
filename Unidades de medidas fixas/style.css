@@ -1,0 +1,30 @@
+#cm{
+    background-color: blue;
+    width: 1cm;
+    height: 1cm;
+}
+#mm{
+    background-color: red;
+    width: 1mm;/* 1/10 de 1cm */
+    height: 1mm;
+}
+#in{
+    background-color: green;
+    width: 1in; /* 1 Polegada tem 2,54cm */
+    height: 1in;
+}
+#px{
+    background-color: black;
+    width: 10px; /* O menor elemento de uma tela */
+    height: 10px;
+}
+#pt{
+    background-color: purple;
+    width: 10pt; /* 1 ponto pode ter vários px dependendo da qualidade do monitor */
+    height: 10pt;
+}
+#pc{
+    background-color: yellow;
+    width: 1pc; /* Equivalente a 12 pt */
+    height: 1pc;
+}
