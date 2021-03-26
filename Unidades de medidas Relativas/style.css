@@ -1,0 +1,82 @@
+
+
+
+.container{
+    font-size: 20px;
+
+}
+.inside{
+    font-size: 2em; /* (em) unidade de tamanho relativa ao elemento pai, no caso o container */
+}
+
+
+.container2{
+    font-size: 25px;
+}
+
+.inside2{
+    font-size: 2rem; /* (rem) unidade de tamanho relativa ao elemento raiz (HTML) */
+}
+
+
+.container3{
+    width: 50vw; /* (vw) unidade relativa a largura da tela 1 vw é igual a 1% da tela */
+    background-color: red;
+    
+}
+
+.inside3{
+    width: 100px; 
+    background-color: blue;
+}
+
+
+
+.container4{
+    width: 50vh; /* (vh) unidade relativa a altura da tela 1 vw é igual a 1% da tela */
+    background-color: red;
+    
+}
+
+.inside4{
+    width: 100px; 
+    background-color: blue;
+}
+
+
+.container5{
+    width: 50vmin; /* (vmin) unidade relativa a menor dimensão da tela (altura x largura) */
+    background-color: red;
+    
+}
+
+.inside5{
+    width: 100px; 
+    background-color: blue;
+}
+
+
+
+.container6{
+    width: 50vmax; /* (vmax) unidade relativa a maior dimensão da tela (altura x largura) */
+    background-color: red;
+    
+}
+
+.inside6{
+    width: 100px; 
+    background-color: blue;
+}
+
+
+
+.container7{
+    width: 80%; /* (%) unidade relativa ao tamanho do elemento pai (altura x largura) */
+    background-color: red;
+    
+}
+
+.inside7{
+    width: 100%; 
+    background-color: blue;
+}
