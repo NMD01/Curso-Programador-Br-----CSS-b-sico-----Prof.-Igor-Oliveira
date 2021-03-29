@@ -1,0 +1,11 @@
+p{
+    color: red;
+    text-align: justify; 
+    text-transform: uppercase;
+    text-indent: 50px;
+    text-decoration: underline;
+    letter-spacing: 3px;
+    line-height: 25px;
+    word-spacing: 10px;
+    text-shadow: 2px 2px 5px black;
+}
