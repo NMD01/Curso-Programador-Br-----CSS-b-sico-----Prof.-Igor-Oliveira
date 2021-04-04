@@ -1,0 +1,62 @@
+.card{
+    background-image: url(./Imagens/backgorund.png);
+    background-repeat: no-repeat;
+    
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    /*background-size: 400px 200px; (eu tinha feito desse jeito, mas do jeito de cima é melhor)*/
+    
+    padding: 1px 20px;
+    margin: auto;
+    margin-top: 15%;
+
+    box-sizing: border-box;
+    
+}    
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+    
+}   
+
+
+ul{
+    
+    list-style-position: inside;
+    font-size: 15pt;
+    
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    width: 150px;
+   
+}
+.insta{
+    list-style-image: url(./Imagens/Insta.png) ;
+    
+}
+.twitter{
+    list-style-image: url(./Imagens/Twitter.png);
+}
+.youTube{
+    list-style-image: url(./Imagens/Youtube.png);
+}
+
+.açao:hover{
+    color:blue ;
+}
+
+
+h1{
+    font-size: 20pt;
+    
+}
+
+ul{
+    width: 85px;
+}
+
+
